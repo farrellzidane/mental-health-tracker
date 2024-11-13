@@ -3,4 +3,5 @@ gunicorn
 whitenoise
 psycopg2-binary
 requests
+django-cors-headers
 urllib3
